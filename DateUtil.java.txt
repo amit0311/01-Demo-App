@@ -4,5 +4,9 @@ pulic class DateUtil{
 
          return " ";
     }
+    public String convertTimeToStr(){
+
+         return " ";
+    }
 
 }
