@@ -1,6 +1,7 @@
 public class Test{
    
     public void test01(){
+      int i=10;
 
    }
      public void test02(){
